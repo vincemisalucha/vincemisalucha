@@ -6,7 +6,7 @@
 <br>
 
 - ✨ Computer Science Graduate
-- 👾 To upload past assignements and projects
+- 👾 To upload past assignments and projects
 - 🌱 Interested in AI, Predictive Analytics, and Data Visualization 
 <br></br>
 
