@@ -5,7 +5,7 @@
 </p>
 <br>
 
-- ✨ Computer Science Graduate
+- ✨ Computer Science Graduate, Data Science Specialization
 - 👾 To upload past assignments and projects
 - 🌱 Interested in AI, Predictive Analytics, and Data Visualization 
 <br></br>
